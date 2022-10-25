@@ -1,0 +1,9 @@
+body{
+    background-image: url(/public/bge.jpg);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

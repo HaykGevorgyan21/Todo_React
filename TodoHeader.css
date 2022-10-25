@@ -1,0 +1,33 @@
+.TodoHeader{
+    display: flex;
+    width: 400px;
+    height: 40px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+
+.TodoHeader > input{
+    width: 80%;
+    height: 100%;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    color: rgb(13, 171, 171);
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Comic Sans MS;
+    background-color: #F5DEB3;
+    padding-left: 10px;
+}
+
+.TodoHeader > button{
+    width: 20%;
+    height: 100%;
+    border: none;
+    border-radius: 8px;
+    background-color: #8CB88C;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}

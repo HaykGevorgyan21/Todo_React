@@ -1,0 +1,11 @@
+.TodoBody{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+   
+    background-image: url(/public/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y: scroll;
+}
+
